@@ -1,6 +1,6 @@
 # odin-recipes
 
-This project, **Odin Recipes**, is part of the foundational projects offered by **The Odin Project**. It serves as an introduction to working with basic HTML elements to create a simple website showcasing a few recipes.
+This project, **odin-recipes**, is part of the foundational projects offered by **The Odin Project**. It serves as an introduction to working with basic HTML elements to create a simple website showcasing a few recipes.
 
 ## Project Overview
 
