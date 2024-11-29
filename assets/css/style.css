@@ -1,9 +1,9 @@
-.title, ul {
+* {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.main.title, 
-.secondary.title, 
+.main.title,
+.secondary.title,
 li {
     text-align: center;
 }
