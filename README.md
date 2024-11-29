@@ -8,14 +8,18 @@ The goal of this project is to build a basic HTML page that links to several rec
 
 ## Skills Learned
 
-Throughout the project, I’ve learned and practiced the following HTML concepts:
+Throughout the project, I’ve learned and practiced the following HTML and CSS concepts:
 
 - **Elements and Tags**
 - **HTML Boilerplate**
 - **Working with Text**
 - **Lists**
 - **Links and Images**
+- **The Cascade**
+- **Inspecting HTML and CSS**
+- **The Box Model**
+- **Block and Inline**
 
 ## Next Steps
 
-As I continue with **The Odin Project**, I will apply more complex concepts and CSS to improve the layout and style of this basic website.
+As I continue with **The Odin Project**, I will apply more complex concepts to improve the layout and style of this basic website.
